@@ -1,0 +1,15 @@
+{
+	"OrchestratorQueueName":"Generate_Yearly_Report-Alan",
+	"ACMEUrl":"https://acme-test.uipath.com/",
+	"ACMEWorkItems":"https://acme-test.uipath.com/work-items/",
+	"ACMEDownloadURL":"https://acme-test.uipath.com/reports/download/",
+	"DownloadReportLocation":"D:\\Users\\alagappan.m\\Documents\\UiPath\\Generate Yearly Report_Alagappan\\Data\\Temp\\",
+	"YearlyReportLocation":"D:\\Users\\alagappan.m\\Documents\\UiPath\\Generate Yearly Report_Alagappan\\Data\\Output\\",
+	"UploadReportURL":"https://acme-test.uipath.com/reports/upload",
+	"UpdateWorkItemURL":"https://acme-test.uipath.com/work-items/update/",
+	"SMTPHost":"smtp.gmail.com",
+	"SMTPPort":"465",
+	"E5GmailAccount":"E5GmailAccount-Alan",
+	"EmailAddress":"alagappan.m@e5.ai",
+	"ACMECredentails":"ACMECredentails-Alan"
+}

@@ -1,0 +1,20 @@
+[
+   {
+      "WIID":"746538",
+      "Description":"Testing Traing Account",
+      "Type":"ERC",
+      "Status":"Success",
+      "DownloadStatus":"Completed",
+      "ClientID":"AVB1001",
+      "Reason":""
+   },
+   {
+      "WIID":"746539",
+      "Description":"Testing Traing Account",
+      "Type":"ERC",
+      "Status":"Failed",
+      "DownloadStatus":"Not Completed",
+      "ClientID":"AVB1002",
+      "Reason":"Technical Error"
+   }
+]
